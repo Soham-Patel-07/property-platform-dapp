@@ -227,14 +227,12 @@ Detailed documentation available in the `docs/` folder:
 ![Property Buy and Sell Web3 Application](Screenshot/Property%20sell%20and%20buy%20web3%20application.png)
 
 ### 2. Property Available for Buy
-![Property Available for Buy](Screenshot/Property%20is%20available%20for%20buy.png)
+![Property Available for Buy](Screenshot/Property%20is%20available%20for%20buy%20.png)
 
 ### 3. Property Purchased and Ready for Sell
-![Property Purchased and Ready for Sell](Screenshot/Property%20is%20purchased%20and%20ready%20for%20sell.png)
+![Property Purchased and Ready for Sell](Screenshot/Property%20is%20purchased%20and%20ready%20for%20sell%20.png)
 
 ---
-
-## License
 
 ## License
 
@@ -248,12 +246,6 @@ This project is licensed under the MIT License.
 - **Hardhat** - For the excellent development framework
 - **OpenZeppelin** - For secure smart contract libraries
 - **Ethereum Community** - For comprehensive documentation
-
----
-
-## Contact
-
-For questions or suggestions, please open an issue on GitHub.
 
 ---
 
