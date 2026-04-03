@@ -1,0 +1,33 @@
+{
+    "name": "Mountain View Estate",
+    "address": "789 Alpine Road, Aspen, CO 81611",
+    "description": "Luxurious mountain estate with breathtaking views",
+    "image": "https://images.unsplash.com/photo-1600607687939-ce8a6c25118c?w=800",
+    "id": "6",
+    "attributes": [
+        {
+            "trait_type": "Purchase Price",
+            "value": 30
+        },
+        {
+            "trait_type": "Type of Residence",
+            "value": "Single family residence"
+        },
+        {
+            "trait_type": "Bed Rooms",
+            "value": 6
+        },
+        {
+            "trait_type": "Bathrooms",
+            "value": 5
+        },
+        {
+            "trait_type": "Square Feet",
+            "value": 6000
+        },
+        {
+            "trait_type": "Year Built",
+            "value": 2018
+        }
+    ]
+}
