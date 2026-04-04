@@ -1,5 +1,7 @@
 # Millow - Blockchain Real Estate Platform
 
+Millow is a decentralized real estate marketplace built on the Ethereum blockchain, allowing users to buy and sell properties securely via smart contracts.
+
 <p align="center">
   <img src="https://img.shields.io/badge/Solidity-0.8.17-blue" alt="Solidity">
   <img src="https://img.shields.io/badge/React-18.2.0-blue" alt="React">
@@ -7,7 +9,6 @@
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
 </p>
 
-Millow is a decentralized real estate marketplace built on the Ethereum blockchain, allowing users to buy and sell properties securely via smart contracts.
 
 
 ## About The Project
