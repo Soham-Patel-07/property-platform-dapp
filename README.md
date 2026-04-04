@@ -10,7 +10,6 @@ Millow is a decentralized real estate marketplace built on the Ethereum blockcha
 </p> -->
 
 
-
 ## About The Project
 
 Millow is a decentralized real estate marketplace built on the Ethereum blockchain that enables users to buy and sell properties using smart contracts. This project was developed as part of my Bachelor of Engineering in Computer Engineering (Semester 8) internship at **Advait Solutions**.
@@ -68,21 +67,65 @@ millow/
 │   └── RealEstate.sol      # NFT contract for properties
 ├── scripts/
 │   └── deploy.js           # Deployment script
+├── test/
+│   └── Escrow.js           # Smart contract tests
 ├── src/
 │   ├── abis/               # Compiled contract ABIs
+│   │   ├── Escrow.json
+│   │   └── RealEstate.json
 │   ├── assets/             # Images and icons
+│   │   ├── logo.svg
+│   │   ├── houses.png
+│   │   └── close.svg
 │   ├── components/         # React components
 │   │   ├── Home.js         # Property details modal
 │   │   ├── Navigation.js   # Navigation bar
-│   │   └── Search.js      # Search component
-│   ├── config.json        # Contract addresses
+│   │   └── Search.js       # Search component
 │   ├── metadata/           # Property metadata
-│   ├── App.js             # Main app component
-│   └── index.js           # React entry point
+│   │   ├── 1.json
+│   │   ├── 2.json
+│   │   ├── 3.json
+│   │   ├── 4.json
+│   │   ├── 5.json
+│   │   └── 6.json
+│   ├── config.json         # Contract addresses
+│   ├── App.js              # Main app component
+│   ├── index.js            # React entry point
+│   ├── index.css           # Global styles
+│   ├── App.test.js         # React tests
+│   ├── setupTests.js       # Test setup
+│   └── reportWebVitals.js  # Performance reporting
+├── public/                 # Public assets
+│   ├── index.html
+│   ├── manifest.json
+│   ├── robots.txt
+│   ├── logo192.png
+│   ├── logo512.png
+│   └── favicon.ico
+├── metadata/               # Root metadata files
+│   ├── 1.json
+│   ├── 2.json
+│   └── 3.json
 ├── docs/                   # Documentation
-├── hardhat.config.js      # Hardhat configuration
-├── package.json           # Dependencies
-└── README.md              # This file
+│   ├── README.md
+│   ├── DEPLOYMENT.md
+│   ├── SMART_CONTRACTS.md
+│   ├── FRONTEND.md
+│   ├── API.md
+│   ├── TROUBLESHOOTING.md
+│   ├── QUICK_START.md
+│   ├── ROADMAP.md
+│   ├── INDEX.md
+│   └── Internship Report SEM 8  Final.pdf
+├── Screenshot/            # Application screenshots
+│   ├── Property sell and buy web3 application.png
+│   ├── Property is available for buy .png
+│   └── Property is purchased and ready for sell .png
+├── hardhat.config.js       # Hardhat configuration
+├── package.json            # Dependencies
+├── package-lock.json       # Locked dependencies
+├── LICENSE                 # MIT License
+└── .gitignore             # Git ignore rules
 ```
 
 
