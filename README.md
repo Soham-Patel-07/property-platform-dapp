@@ -12,7 +12,7 @@ Millow is a decentralized real estate marketplace built on the Ethereum blockcha
 
 ## About The Project
 
-Millow is a decentralized real estate marketplace built on the Ethereum blockchain that enables users to buy and sell properties using smart contracts. This project was developed as part of my Bachelor of Engineering in Computer Engineering (Semester 8) internship at **Advait Solutions**.
+Millow is a decentralized real estate marketplace built on the Ethereum blockchain that enables users to buy and sell properties using smart contracts. This project was developed as part of my Bachelor of Engineering in Computer Engineering in Last Semester  internship at **Advait Solutions**.
 
 ### Internship Details
 
