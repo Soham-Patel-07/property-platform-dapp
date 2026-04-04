@@ -125,6 +125,7 @@ millow/
 ├── package.json            # Dependencies
 ├── package-lock.json       # Locked dependencies
 ├── LICENSE                 # MIT License
+├── README.md               # Project documentation
 └── .gitignore             # Git ignore rules
 ```
 
