@@ -117,7 +117,7 @@ millow/
 │   ├── ROADMAP.md
 │   ├── INDEX.md
 │   └── Internship Report SEM 8  Final.pdf
-├── Screenshot/            # Application screenshots
+├── Screenshot/             # Application screenshots
 │   ├── Property sell and buy web3 application.png
 │   ├── Property is available for buy .png
 │   └── Property is purchased and ready for sell .png
