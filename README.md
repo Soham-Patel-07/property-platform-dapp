@@ -7,7 +7,8 @@
   <img src="https://img.shields.io/badge/License-MIT-green" alt="License">
 </p>
 
----
+Millow is a decentralized real estate marketplace built on the Ethereum blockchain, allowing users to buy and sell properties securely via smart contracts.
+
 
 ## About The Project
 
@@ -25,7 +26,7 @@ Millow is a decentralized real estate marketplace built on the Ethereum blockcha
 
 During my internship at Advait Solutions, I worked on building decentralized applications (DApps) using blockchain technology. Millow was my major project where I implemented a full-stack blockchain real estate platform combining smart contracts with a modern React frontend.
 
----
+
 
 ## Features
 
@@ -36,7 +37,7 @@ During my internship at Advait Solutions, I worked on building decentralized app
 - ✅ **Buy & Sell Flow** - Complete transaction flow with inspection and financing
 - ✅ **Local Metadata Fallback** - Works even without deployed contracts
 
----
+
 
 ## Tech Stack
 
@@ -55,7 +56,7 @@ During my internship at Advait Solutions, I worked on building decentralized app
 - **MetaMask** - Ethereum wallet
 - **Hardhat Local Network** - Local blockchain for development
 
----
+
 
 ## Project Structure
 
@@ -83,7 +84,7 @@ millow/
 └── README.md              # This file
 ```
 
----
+
 
 ## Getting Started
 
@@ -131,7 +132,7 @@ npm start
 
 The app will open at `http://localhost:3000`
 
----
+
 
 ## How It Works
 
@@ -173,7 +174,7 @@ Seller finalizes Sale
 NFT → Buyer, Funds → Seller
 ```
 
----
+
 
 ## User Roles
 
@@ -184,7 +185,7 @@ NFT → Buyer, Funds → Seller
 | **Inspector** | Verifies property condition | Approve inspection |
 | **Lender** | Provides financing | Approve & lend funds |
 
----
+
 
 ## Smart Contract Details
 
@@ -202,7 +203,7 @@ Handles the escrow process for property transactions.
 - Lender financing
 - Sale finalization
 
----
+
 
 ## Documentation
 
@@ -219,7 +220,7 @@ Detailed documentation available in the `docs/` folder:
 | [docs/QUICK_START.md](./docs/QUICK_START.md) | Quick start guide |
 | [docs/ROADMAP.md](./docs/ROADMAP.md) | Future features |
 
----
+
 
 ## Screenshots
 
@@ -232,13 +233,12 @@ Detailed documentation available in the `docs/` folder:
 ### 3. Property Purchased and Ready for Sell
 ![Property Purchased and Ready for Sell](Screenshot/Property%20is%20purchased%20and%20ready%20for%20sell%20.png)
 
----
+
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
 ## Acknowledgments
 
@@ -249,4 +249,4 @@ This project is licensed under the MIT License.
 
 ---
 
-<p align="center">Made with ❤️ during internship at Advait Solutions (Jan 2023 - Apr 2023)</p>
+**Note:** This is an academic project built during a **January 2023 to April 2023** in an internship at **Advait Solutions** as part of **BE Computer Engineering** curriculum at **Bhagwan Arihant Institute of Technology - Surat.**
